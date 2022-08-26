@@ -38,7 +38,7 @@
 ## <ins>How to use </ins>
 
 - Download the "BeerConsumptionPrediction.ipynb" file on this repository and import it on google colab.
-- Download the Dataset at "https://www.kaggle.com/dongeorge/beer-consumption-sao-paulo" and import it on "sample_data" folder on google colab.
+- Download the Dataset at "https://www.kaggle.com/dongeorge/beer-consumption-sao-paulo" and import it on the "sample_data" folder on google colab.
 - Run it.
 
 ## <ins>Training and test sets vs prediction</ins>
