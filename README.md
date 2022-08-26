@@ -9,7 +9,7 @@
 ## <ins>Technologies</ins>
 
 - Python
-  Made on Google Colab.
+ <p>Made on Google Colab.</p>
 
 ## <ins>How to use </ins>
 
