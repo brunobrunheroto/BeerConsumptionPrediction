@@ -12,7 +12,7 @@
 - Use a Linear Regression model to predict the amount of beer consumed using a a single feature.
 - Show technical scores: R2, RMSE, etc.
 
-## <ins>Stractegic Plan of Action</ins>
+## <ins>Strategic plan of action</ins>
 
 1. Frame the problem.
 2. Get the Data.
@@ -20,7 +20,15 @@
 4. Explore the Data.
 5. Prepare the Data (Preprocessing and feature selection).
 6. Train the ML Algorithm (Linear Regression).
-7. Evaluation using technical scores.
+7. Evaluate using technical scores.
+
+## <ins>Experiment protocol</ins>
+
+- The dataset was divided into training and testing parts in the ratio 80:20, that means 80% of the database will be used for training and 20% for testing.
+- Predictions were based on beer amount and maximum temperature.
+- Preprocessing was required because the dataset contains a large number of null values after the year is over.
+- After removing null data, there were 365 data rows in the dataset, whereas the total amount was 366, which was considered a small loss.
+- Results were evaluated using the coefficient of determination and the mean error.
 
 ## <ins>Technologies</ins>
 
@@ -40,5 +48,6 @@
 ## <ins>Credits</ins>
 
 <p> The ideia to work on this project and it's structure was shared by the teacher of Artificial Intelligence at Facamp, Carlos Caetano.</p>
-Other team members:
+<p> Other team members:</p>
+
 - Fábio Seiji Sakai Iwashima.
