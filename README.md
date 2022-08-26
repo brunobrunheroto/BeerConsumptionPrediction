@@ -4,7 +4,7 @@
 
 ## <ins>Goals</ins>
 
-<p>This project was done for academic purposes and aims to predict the amount of beer consumed by brazillians .</p>
+<p>This project was done for academic purposes and This project was made for academic purposes and aims to predict the amount of beer consumed by Brazilians, from São Paulo, according to the temperature variation.</p>
 
 ## <ins>Technologies</ins>
 
